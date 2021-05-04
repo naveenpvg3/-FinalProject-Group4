@@ -1,5 +1,6 @@
 # Datamining Project
-##High Value Customer Identification
+#High Value Customer Identification
+
 The aim of this project is to apply data mining techniques in python language to a real world problem.
 Project objective with the dataset obtained is to find ‘significant customers’ for the business who make high purchases of their favorite products. Dataset used is obtained from a UK-based online retail store on high value customer identification (based on customers with high purchases,regular customers and irregular customers .) The organization wants to roll out a loyalty program to high-value customers after the identification of segments. 
 This dataset contains transactions occurring between November-2016 to December-2017 for the UK based online retail store. (Source:Kaggle)
