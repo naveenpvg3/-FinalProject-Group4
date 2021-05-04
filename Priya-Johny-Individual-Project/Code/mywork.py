@@ -127,7 +127,7 @@ print("Now we can save the new dataset to a csv format and use the new version f
 #df.to_csv(r'df.csv', index = False)
 
 #%% basic GUI Trial for exporting cleaned dataset to new csv, cite:datafish
-'''Here I am just exploring and adding a gui where the clean dataset created can be saved through an interactive session\n.
+'''Here I am just exploring and adding a gui where the clean dataset created can be saved through an interactive session.
 Here the user can just save the data in csv format after datacleaning'''
 #import tkinter packages
 import tkinter as tk
